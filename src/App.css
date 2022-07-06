@@ -1,0 +1,30 @@
+.tweeter-blue {
+    color: #1DA1F2;
+    text-align: center;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+    
+}
+
+.test {
+        display: none;
+}
+
+.btn {
+    background-color: blue;
+    color: yellow;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    margin: 0 auto;
+}
+
+.text {
+    width: 50%;
+    margin: 30px auto;
+}
